@@ -3,12 +3,12 @@
   flex-wrap: wrap;
   margin: 0 auto;
   justify-content: center;
-  width: 95%;
+  width: 95%; 
   margin-top: 30px;
 }
 
 .card-products {
-  background-color: #ffff;
+  background-color: #ffff; //Cambio
   width: calc(33.33% - 20px); 
   margin: 10px;
   display: flex;
